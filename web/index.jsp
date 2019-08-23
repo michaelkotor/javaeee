@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <a href="error.jsp">Error</a>
   </body>
 </html>
